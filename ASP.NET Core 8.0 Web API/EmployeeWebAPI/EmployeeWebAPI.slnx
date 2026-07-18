@@ -1,4 +1,4 @@
 <Solution>
-  <Project Path="EmployeeWebAPI/EmployeeWebAPI.csproj" />
-  <Project Path="Lab6_KafkaChat/Lab6_KafkaChat.csproj" Id="86c1607a-bcc4-4e62-aafb-5bc4d5df799e" />
+  <Project Path="../Lab6_KafkaChat/Lab6_KafkaChat.csproj" />
+  <Project Path="EmployeeWebAPI.csproj" />
 </Solution>
